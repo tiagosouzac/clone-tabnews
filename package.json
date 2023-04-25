@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "clone-tabnews",
+  "author": "tiagosouzac",
+  "description": "Clone do https://www.tabnews.com.br/ desenvolvido durante o https://curso.dev/ do Filipe Deschamps",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
